@@ -7,4 +7,3 @@ function skaititajs() {
 
     document.getElementById("rezultats").innerText = "Tu esi nospiedis pogu " + localStorage.skaititajs + " reizes";
   }
-alert(skaititajs())
